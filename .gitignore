@@ -1,3 +1,9 @@
+runs/
+input_videos/
+models/
+yolov8x.pt
+yolov5xu.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
